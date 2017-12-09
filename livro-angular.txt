@@ -1,0 +1,15 @@
+
+Angular
+	Projeto ao longo do livro:	https://github.com/thiagoguedes99/livro-Angular-2
+	Projeto final: https://github.com/thiagoguedes99/projeto-final-livro-angular-2
+
+
+Angular 2 é um framework para desenvolvimento front-end com HTML, CSS e TypeScript que, no final, é compilado para JavaScript.
+
+O Angular 2 não é continuação do AngularJS, também conhecido como Angular 1. Angular 2 é um framework totalmente novo e remodelado, codificado do zero, com lições aprendidas do AngularJS.
+
+TypeScript, que é um superset para JavaScript
+
+As SPAs (Single Page Applications) são aplicações desenvolvidas em JavaScript que rodam quase inteiras no lado do cliente (browser). Assim que o usuário acessa o site, a aplicação fica armazenada do lado do cliente em forma de templates (pedaços de HTML).
+
+Com uma aplicação desenvolvida em SPA, temos muitas vantagens, como melhor experiência do usuário (parece até uma aplicação desktop), performance e menor carga de trabalho no servidor.
